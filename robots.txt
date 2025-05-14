@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: csugino3.github.io/sitemap.xml
