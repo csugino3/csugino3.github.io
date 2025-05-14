@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: VAEL # the website title (if blank, full name will be used instead)
 first_name: Christopher
 middle_name: 
 last_name: Sugino
@@ -193,6 +193,11 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _news/announcement_*.md
+  - _pages/blog.md
+  - _posts/
+  - _projects/?_project.md
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
@@ -265,8 +270,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sugino]
+  first_name: [Christopher]
 
   style: apa
   locale: en
