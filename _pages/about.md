@@ -27,8 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dr. Christopher Sugino is an Assistant Professor in the Department of Mechanical Engineering in the Schaefer School of Engineering and Science at Stevens Institute of Technology. His research focuses on the dynamics of smart structures and metamaterials, with an emphasis on using smart materials to investigate new physical phenomena. He is a recipient of the NSF CAREER Award (2024-2029), 2021 Doak Award from the Journal of Sound and Vibration, and the 2020 Sigma Xi Best Ph.D. Thesis Award from Georgia Tech. He received his Ph.D. in Mechanical Engineering from the Georgia Institute of Technology in 2019 and his B.S. in Engineering from Harvey Mudd College in 2015.
