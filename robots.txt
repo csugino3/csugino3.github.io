@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://csugino3.github.io/sitemap.xml
+Sitemap: csugino3.github.io/sitemap.xml
