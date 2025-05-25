@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Department of Mechanical Engineering</a>, Stevens Institute of Technology.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Carnegie 200</p>
+    <p>Stevens Institute of Technology</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Dr. Christopher Sugino is an Assistant Professor in the Department of Mechanical Engineering in the Schaefer School of Engineering and Science at Stevens Institute of Technology. His research focuses on the dynamics of smart structures and metamaterials, with an emphasis on using smart materials to investigate new physical phenomena. He is a recipient of the NSF CAREER Award (2024-2029), 2021 Doak Award from the Journal of Sound and Vibration, and the 2020 Sigma Xi Best Ph.D. Thesis Award from Georgia Tech. He received his Ph.D. in Mechanical Engineering from the Georgia Institute of Technology in 2019 and his B.S. in Engineering from Harvey Mudd College in 2015.
+The Vibration and Acoustics Engineering Laboratory at Stevens Institute of Technology is led by Prof. Christopher Sugino.

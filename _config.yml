@@ -170,6 +170,8 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
+  - _pages/cv.md
+  - _pages/repositories.md
   - FAQ.md
   - Gemfile
   - Gemfile.lock
