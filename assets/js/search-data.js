@@ -42,12 +42,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-prof-sugino-starts-as-an-assistant-professor-in-the-department-of-mechanical-engineering-at-stevens-institute-of-technology",
+          title: 'Prof. Sugino starts as an Assistant Professor in the Department of Mechanical Engineering...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-bilal-presents-our-work-inverse-design-of-non-local-metamaterials-with-arbitrary-non-reciprocal-dispersion-relations-at-asme-idetc-cie-2024",
+          section: "News",},{id: "news-prof-sugino-receives-the-nsf-career-award-2024-2029-for-his-proposal-titled-career-non-local-metamaterials-and-metasurfaces-for-next-generation-non-reciprocal-acoustic-devices-total-award-650-081",
+          title: 'Prof. Sugino receives the NSF CAREER Award (2024-2029) for his proposal titled “CAREER:...',
+          description: "",
+          section: "News",},{id: "news-prof-sugino-presents-our-work-generalized-non-reciprocal-dispersion-in-non-local-piezoelectric-metamaterials-at-icast-2024",
+          title: 'Prof. Sugino presents our work “Generalized Non-Reciprocal Dispersion in Non-Local Piezoelectric Metamaterials” at...',
+          description: "",
+          section: "News",},{id: "news-bilal-presents-our-work-inverse-design-of-non-local-metamaterials-with-arbitrary-non-reciprocal-dispersion-relations-at-asme-idetc-cie-2024",
           title: 'Bilal presents our work “Inverse design of non-local metamaterials with arbitrary non-reciprocal dispersion...',
           description: "",
           section: "News",},{id: "news-prof-sugino-and-co-authors-receive-the-adaptive-structures-amp-amp-material-systems-best-paper-award-in-structural-dynamics-amp-amp-control-for-the-journal-article-digital-programming-of-reciprocity-breaking-in-resonant-piezoelectric-metamaterials-published-in-physical-review-research-in-2023",
