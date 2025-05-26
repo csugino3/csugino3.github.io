@@ -404,16 +404,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-bilal-presents-our-work-inverse-design-of-non-local-metamaterials-with-arbitrary-non-reciprocal-dispersion-relations-at-asme-idetc-cie-2024",
+          title: 'Bilal presents our work “Inverse design of non-local metamaterials with arbitrary non-reciprocal dispersion...',
+          description: "",
+          section: "News",},{id: "news-prof-sugino-and-co-authors-receive-the-adaptive-structures-amp-amp-material-systems-best-paper-award-in-structural-dynamics-amp-amp-control-for-the-journal-articledigital-programming-of-reciprocity-breaking-in-resonant-piezoelectric-metamaterials-published-in-physical-review-research-in-2023",
+          title: 'Prof. Sugino and co-authors receive the Adaptive Structures &amp;amp;amp; Material Systems Best Paper...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
