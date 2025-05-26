@@ -4,14 +4,18 @@ title: about
 permalink: /
 subtitle: <a href='https://www.stevens.edu/page-minisite-landing/mechanical-engineering-department'>Department of Mechanical Engineering</a>, Stevens Institute of Technology.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Carnegie Laboratory, rm 200</p>
-    <p>519 Hudson St.</p>
-    <p>Hoboken, NJ 07030</p>
+images:
+  compare: true
+  slider: true
+
+#profile:
+#  align: right
+#  image: prof_pic.jpg
+#  image_circular: false # crops the image to make it circular
+#  more_info: >
+#    <p>Carnegie Laboratory, rm 200</p>
+#    <p>519 Hudson St.</p>
+#    <p>Hoboken, NJ 07030</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,9 +31,9 @@ The Vibration and Acoustics Engineering Laboratory (VAEL) is located in the Depa
 Vibration and sound are...
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/key_image2.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Figure1.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Figure4.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/LN16088NR key image.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>

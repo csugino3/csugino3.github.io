@@ -188,8 +188,6 @@ exclude:
   - _news/announcement2.md
   - _pages/blog.md
   - _posts/
-  - _projects/?_project.md
-  - assets/jupyter/blog.ipynb
 
 keep_files:
   - CNAME
