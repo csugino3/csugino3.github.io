@@ -32,7 +32,7 @@ Acoustic and elastic waves are the transient transfer of mechanical energy, maki
 
 **Thus, it is our group's objective to develop new, more precise, and more comprehensive ways to manipulate acoustic waves.**
 
-Learn more about our current projects, publications, and current openings below.
+Learn more about our [current projects](/projects/), [publications](/publications/), and current openings below.
 
 ## openings
 
