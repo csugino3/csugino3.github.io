@@ -16,7 +16,12 @@ profiles:
     more_info:
   - align: left
     image: 
-    content: mkhan.md
+    content: grads.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+  - align: left
+    image: 
+    content: undergrads.md
     image_circular: false # crops the image to make it circular
     more_info:
 ---
