@@ -44,12 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-prof-sugino-starts-as-an-assistant-professor-in-the-department-of-mechanical-engineering-at-stevens-institute-of-technology",
+        },{id: "news-prof-sugino-starts-as-an-assistant-professor-in-the-department-of-mechanical-engineering-at-stevens-institute-of-technology",
           title: 'Prof. Sugino starts as an Assistant Professor in the Department of Mechanical Engineering...',
           description: "",
           section: "News",},{id: "news-prof-sugino-receives-the-nsf-career-award-2024-2029-for-his-proposal-titled-career-non-local-metamaterials-and-metasurfaces-for-next-generation-non-reciprocal-acoustic-devices-total-award-650-081",
