@@ -6,15 +6,15 @@ title: Vibration and Acoustics Engineering Laboratory # the website title (if bl
 first_name: Christopher
 middle_name: 
 last_name: Sugino
-contact_note: 
+contact_note: We are located in Carnegie Laboratory room 200
 description: 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-short_title: VAEL # the short title used in the navbar and footer (if blank, full name will be used instead)
+icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+short_title: VAEL @ Stevens # the short title used in the navbar and footer (if blank, full name will be used instead)
 
 url: "https://csugino3.github.io" # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
