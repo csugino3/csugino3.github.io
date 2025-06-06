@@ -75,11 +75,11 @@ ninja.data = [{
           window.open("mailto:%63%73%75%67%69%6E%6F@%73%74%65%76%65%6E%73.%65%64%75", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0001-7547-4874", "_blank");
         },
       },{
         id: 'social-scholar',
